@@ -14,3 +14,4 @@ function search(haystack: number[], needle: number, min: number, max: number): b
 }
 
 console.log(binarySearch([1, 2, 3, 4, 5, 6, 7], 9)); // return false
+// time complexity O(logN)
